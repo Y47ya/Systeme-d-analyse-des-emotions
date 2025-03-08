@@ -182,7 +182,7 @@
 											"top": 525,
 											"width": 95,
 											"height": 13,
-											"text": "Administrateur"
+											"text": "Utilisateur"
 										},
 										{
 											"_type": "LabelView",
@@ -2145,8 +2145,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -53,
-											"top": 17,
+											"left": -69,
+											"top": 33,
 											"height": 13
 										},
 										{
@@ -2156,8 +2156,8 @@
 												"$ref": "AAAAAAGVcTl7SimTyTI="
 											},
 											"font": "Arial;13;1",
-											"left": 876,
-											"top": 450,
+											"left": 868,
+											"top": 458,
 											"width": 255,
 											"height": 13,
 											"text": "Identifier les emotions des commentaires"
@@ -2170,8 +2170,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -53,
-											"top": 17,
+											"left": -69,
+											"top": 33,
 											"width": 80.9072265625,
 											"height": 13,
 											"text": "(from Model1)"
@@ -2184,15 +2184,15 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -53,
-											"top": 17,
+											"left": -69,
+											"top": 33,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 871,
-									"top": 443,
+									"left": 863,
+									"top": 451,
 									"width": 265.7470703125,
 									"height": 25,
 									"stereotypeLabel": {
@@ -2219,8 +2219,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -32,
-									"top": 96,
+									"left": -40,
+									"top": 104,
 									"width": 10,
 									"height": 10
 								},
@@ -2235,8 +2235,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -32,
-									"top": 96,
+									"left": -40,
+									"top": 104,
 									"width": 10,
 									"height": 10
 								},
@@ -2251,8 +2251,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -32,
-									"top": 96,
+									"left": -40,
+									"top": 104,
 									"width": 10,
 									"height": 10
 								},
@@ -2267,8 +2267,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -32,
-									"top": 96,
+									"left": -40,
+									"top": 104,
 									"width": 10,
 									"height": 10
 								},
@@ -2283,16 +2283,16 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -32,
-									"top": 96,
+									"left": -40,
+									"top": 104,
 									"width": 10,
 									"height": 10
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 816,
-							"top": 416,
+							"left": 808,
+							"top": 424,
 							"width": 375,
 							"height": 80,
 							"nameCompartment": {
@@ -2611,8 +2611,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1265,
-									"top": 412,
+									"left": 1262,
+									"top": 415,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2632,8 +2632,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1268,
-									"top": 427,
+									"left": 1265,
+									"top": 430,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -2653,8 +2653,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1260,
-									"top": 383,
+									"left": 1255,
+									"top": 386,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2675,7 +2675,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1312,
-									"top": 403,
+									"top": 405,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -2695,8 +2695,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1312,
-									"top": 417,
+									"left": 1313,
+									"top": 418,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -2717,7 +2717,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1311,
-									"top": 375,
+									"top": 377,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -2737,8 +2737,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1219,
-									"top": 421,
+									"left": 1211,
+									"top": 426,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -2757,8 +2757,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1224,
-									"top": 434,
+									"left": 1216,
+									"top": 438,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -2777,8 +2777,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1209,
-									"top": 395,
+									"left": 1201,
+									"top": 400,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -2827,7 +2827,7 @@
 								"$ref": "AAAAAAGVcTl7Sil98nI="
 							},
 							"lineStyle": 1,
-							"points": "1335:390;1191:418",
+							"points": "1335:391;1183:423",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGVcTl7SimqDMY="
@@ -2871,8 +2871,8 @@
 								"$ref": "AAAAAAGVcRkibrppr6E="
 							},
 							"font": "Arial;13;0",
-							"left": 928,
-							"top": 544,
+							"left": 920,
+							"top": 568,
 							"width": 161,
 							"height": 80,
 							"text": "Les emotions sont:\n     -Positives\n     -Neutres\n     -Negatives"
@@ -2891,7 +2891,7 @@
 								"$ref": "AAAAAAGVcTl7SimSeA8="
 							},
 							"lineStyle": 1,
-							"points": "1005:496;1006:543"
+							"points": "996:504;999:567"
 						},
 						{
 							"_type": "UMLUseCaseView",
@@ -3370,7 +3370,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGVcRkibbpoI30="
 					},
-					"name": "Administrateur",
+					"name": "Utilisateur",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
